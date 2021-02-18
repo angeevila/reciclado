@@ -1,0 +1,131 @@
+html,
+header {
+  align-items:center ;
+  color: rgb(51, 40, 10);
+  text-align: all;
+  font-weight:lighter ;
+}  
+body {
+  background-color:  rgb(194, 229, 208) ;
+  padding: 10px;
+  
+}
+section {
+  height: 80%;
+  width: 80%;
+  margin:auto;
+  text-align: justify;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+    
+    border: solid; 
+}
+
+article {
+  height: 80%;
+  width: 80%;
+  margin:auto;
+  text-align: justify;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: rgb(250, 242, 195);
+  padding: 10px;
+    
+    border: solid;
+}
+
+
+.h3 {
+  width:  80%;
+  
+  border: solid 10px black;
+  padding: 20px;
+  margin: 20px;
+  align-items:center ;
+}
+
+.form input[type="botton"] {
+  margin-bottom: 10px;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0%;
+  display: flex;
+}
+
+footer{
+  position: central;
+  text-underline-position: below;
+}
+.hiperv {
+  font-size: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:black;
+  background-color: rgb(185, 32, 32);
+}
+.id {
+  font-size: 10;
+  
+}
+
+.featurette-divider {
+  margin: 2rem;
+}
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  
+}
+
+.bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto {
+  margin-left: 7rem;
+
+}
+
+  
+
+
+      /* }
+      .navbar .nav-item:not(:last-child) {
+        margin-right: 35px;
+      }
+      
+      .dropdown-toggle::after {
+         transition: transform 0.15s linear; 
+      }
+      
+      .show.dropdown .dropdown-toggle::after {
+        transform: translateY(3px);
+      } */
+    
+    
+    
+
+
+
+         
+
+    
+
+
+/* article {
+    .clearfix:before, .clearfix:after, .dl-horizontal dd:before, .dl-horizontal dd:after, .container:before, .container:after, .container-fluid:before, .container-fluid:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .btn-toolbar:before, .btn-toolbar:after, .btn-group-vertical>.btn-group:before, .btn-group-vertical>.btn-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after, .pager:before, .pager:after, .panel-body:before, .panel-body:after, .modal-footer:before, .modal-footer:after {
+        display: table;
+        content: " ";
+}
+
+<nav>
+    <link rel="shortcut" href="bars-solid.svg">
+    <div class="btn-group">
+        <button type="button" class="btn btn-primary dropdown-toggle"data-toggle="dropdown"> Menu  </button>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="Ideas.html">Ideas para reciclar</a>
+                <a class="dropdown-item" href="pilas.html">¿Que sé sobre las pilas?</a>
+                <a class="dropdown-item" href="Argentina.html">¿Como empresas reciclan?</a></div>
+            
+        
+        <button type="button" class="btn btn-primary"><a rel="html" href="Contacto" target="_blanck">Contacto</a></button>
+            
+            
+        </div>
+</nav> */
